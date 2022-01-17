@@ -37,10 +37,10 @@ import com.google.gson.Gson;
 public class UniversalCharacterRecognition {
     private String requestUrl = "https://api.xf-yun.com/v1/private/sf8e6aca1";
 
-    //控制台获取以下信息
-    private static String APPID = "6f8dc46b";
-    private static String apiSecret = "MTAyMTQ4NjFlNGU3MWEyNDQ2YjBhZjlj";
-    private static String apiKey = "ad915882a714ff9a079d81d91b05a30b";
+    //控制台获取以下信息 //https://www.xfyun.cn/services/common-ocr
+    private static String APPID = "";
+    private static String apiSecret = "";
+    private static String apiKey = "";
 
     //文件存放位置
     private static String IMAGE_PATH = "/Users/admin/Pictures/ncfs/ea0a594f8301450fadba9b34fd108751-0218.jpg";
